@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Database
+*.db
+*.sqlite3
+**/cybershield.db
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Node
+node_modules/
+dist/
+.env.local
+.env.*.local
